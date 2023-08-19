@@ -3,7 +3,7 @@
 In-Memory File System Simulator
 This project implements a simple in-memory file system simulator in Python. It allows you to perform basic file system operations such as mkdir, cd, touch, and ls.
 
-How to Run the Project
+HOW TO RUN THE PROJECT
 
 Clone the repository to your local machine using the following command:
 git clone https://github.com/your-username/in-memory-file-system.git
