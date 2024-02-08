@@ -7,7 +7,7 @@ HOW TO RUN THE PROJECT
 
 Copy the provided code into a Python file, Name it filesystem_interface.py.
 Save the file.
-Open a powershell, terminal, or command prompt.
+Open powershell, terminal, or command prompt.
 Navigate to the directory where you saved filesystem_interface.py using the cd command.
 Run the program by typing python filesystem_interface.py and press Enter.
 
